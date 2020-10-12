@@ -1,0 +1,13 @@
+.icon_map::before {
+    content: '\f277';
+    font-weight: 300;
+}
+
+.icon_cart::before {
+    content: '\f217';
+    font-weight: 300;
+}
+
+.icon_bars::before {
+    content: '\f0c9';
+}
